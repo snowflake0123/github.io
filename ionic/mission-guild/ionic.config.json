@@ -1,7 +1,0 @@
-{
-  "name": "mission-guild",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
